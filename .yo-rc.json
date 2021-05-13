@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "M365x0426"
+    },
+    "libraryName": "messagingExt",
+    "generator-version": "3.1.0-preview"
+  }
+}
